@@ -1,0 +1,7 @@
+{
+    "name": "Adafruit_INA219",
+    "version": "0.0.1",
+    "author": "David Cranor <david.cranor@gmail.com",
+    "license": "BSD",
+    "description": "Quick 'n dirty port of Adafruit's INA219 driver for Particle"
+}

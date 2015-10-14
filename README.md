@@ -1,4 +1,1 @@
-Adafruit_INA219
-===============
-
-INA219 Current Sensor
+Quick 'n dirty port of Adafruit's INA219 driver for Particle
