@@ -1,4 +1,4 @@
-#include <Wire.h>
+#include "application.h"
 #include <Adafruit_INA219/Adafruit_INA219.h>
 
 Adafruit_INA219 ina219;
@@ -6,7 +6,7 @@ Adafruit_INA219 ina219;
 void setup(void)
 {
   uint32_t currentFrequency;
-    
+
   Serial.begin(115200);
   Serial.println("Hello!");
 

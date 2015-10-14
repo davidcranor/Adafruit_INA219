@@ -19,7 +19,7 @@
 
 
 #include "application.h"
-#include <Wire.h>
+//#include <Wire.h>
 
 /*=========================================================================
     I2C ADDRESS/BITS
