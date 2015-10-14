@@ -53,7 +53,6 @@ void Adafruit_INA219::wireReadRegister(uint8_t reg, uint16_t *value)
   Wire.requestFrom(ina219_i2caddr, (uint8_t)2);
   // Shift values to create properly formed integer
   *value = ((Wire.read() << 8) | Wire.read());
-  #endif
 }
 
 /**************************************************************************/
