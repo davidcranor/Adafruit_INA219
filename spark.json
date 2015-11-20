@@ -1,7 +1,7 @@
 {
     "name": "Adafruit_INA219",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "David Cranor <david.cranor@gmail.com",
     "license": "BSD",
-    "description": "Quick 'n dirty port of Adafruit's INA219 driver for Particle"
+    "description": "Quick 'n dirty port of Adafruit's INA219 driver for Particle.  Added functionality for other sense resistors."
 }
